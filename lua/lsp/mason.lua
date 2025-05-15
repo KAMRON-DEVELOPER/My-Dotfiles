@@ -63,7 +63,7 @@ return {
 					"pyright",
 					"ruff",
 					"zls",
-					-- "rust_analyzer",
+					"rust_analyzer",
 					-- "gopls",
 					-- "ts_ls", -- "quick_lint_js",
 					-- "clangd",

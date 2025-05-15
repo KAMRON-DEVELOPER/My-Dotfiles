@@ -10,7 +10,7 @@ return {
 				lua = { "stylua" },
 				python = { "isort", "black", lsp_format = "fallback" }, -- Conform will run multiple formatters sequentially
 				-- zig = { "zigfmt", lsp_format = "fallback" },
-				-- rust = { "rustfmt", lsp_format = "fallback", stop_after_first = true },
+				rust = { "rustfmt", lsp_format = "fallback", stop_after_first = true },
 				-- go = { "goimports", "gofmt", "gofumpt", stop_after_first = true, lsp_format = "fallback" }, -- gofmt, gofumpt, goimports
 				dart = { "dart_format" },
 				-- c = { "clangformat" },
